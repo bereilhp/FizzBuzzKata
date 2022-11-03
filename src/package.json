@@ -5,11 +5,11 @@
   "main": "",
   "scripts": {
     "test": "jest",
-    "start" : "node code.js"
+    "start": "node code.js"
   },
   "author": "bereilhp",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.2.2"
   }
 }
