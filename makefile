@@ -1,2 +1,2 @@
 open: 
-	codium . 
+	@codium . 
