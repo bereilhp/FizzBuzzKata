@@ -1,6 +1,6 @@
 # FizzBuzzKata
 
-Fizz Buzz Kata using JavaScript and Jest 
+Fizz Buzz Kata using JavaScript and Jest for TDD
 
 ## To get started
 
