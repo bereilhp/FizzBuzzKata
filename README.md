@@ -1,12 +1,12 @@
 # FizzBuzzKata
 
-Open src folder and run the following command
+Open src folder and run the following command:
 
 ```
 npm install
 ````
 
-To run the test enter the following command
+To run the test run the following command:
 
 ````
 npm test
