@@ -4,7 +4,8 @@
   "description": "Fizz Buzz Kata",
   "main": "",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start" : "node code.js"
   },
   "author": "bereilhp",
   "license": "ISC",
